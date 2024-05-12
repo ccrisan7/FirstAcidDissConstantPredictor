@@ -1,0 +1,5 @@
+1. https://github.com/IUPAC/Dissociation-Constants
+2. https://www.rdkit.org/docs/GettingStartedInPython.html
+3. https://github.com/hjkgrp/molSimplify
+4. https://hjkgrp.mit.edu/tutorials/2021-11-03-visualizing-molecules-built-smiles-strings-jupyter-notebooks-using-molsimplify/
+5. https://doi.org/10.1016/j.ces.2018.03.005
