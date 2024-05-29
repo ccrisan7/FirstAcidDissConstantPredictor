@@ -318,7 +318,7 @@ elif page == "Estimation pKa1 for your molecule":
                 x = []  # Node features
                 edge_index = []  # Edge connectivity
                 edge_attr = []  # Edge features
-                y = molecule.pk1  # PK1 value
+                y = molecule.pk1  # PKa1 value
                 
                 for node_idx, attrs in graph.nodes(data=True):
                     # Node features
